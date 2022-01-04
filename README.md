@@ -1,5 +1,5 @@
 ## MurmurHash3原理讲解
-[Blog](https://blog.csdn.net/qq_44932835/article/details/122292320)
+[MyBlog:](https://blog.csdn.net/qq_44932835/article/details/122292320)<br/>
 Murmur哈希是一种非加密函数的哈希函数，下面我们在介绍哈希函数之前我们需要了解一下什么是好的哈希函数(可以通过下面两个测试)。<br/>
 `1.好的哈希函数应该通过卡方测试(chi-squared test)`
 卡方测试:
